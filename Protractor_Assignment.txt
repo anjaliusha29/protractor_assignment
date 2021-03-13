@@ -1,0 +1,8 @@
+Protractor Assignment
+=======================
+
+1.You will create a new Angular App using ng new <<App Name>>
+2.Then you will go to e2e folder and write the protractor test cases using Jasmine 
+	to test the app.component.html page elements.
+3. You have to use visual studio code as IDE and Nodejs as server.
+4. You can also use JSON-SERVER
